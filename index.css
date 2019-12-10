@@ -1,0 +1,17 @@
+.container {
+    max-width: 500px;
+    margin: auto;
+}
+
+.container img {
+    object-fit: cover;
+    height: 500px;
+}
+
+.prev {
+    float: left;
+}
+
+.next {
+    float: right;
+}

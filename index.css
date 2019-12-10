@@ -8,10 +8,14 @@
     height: 500px;
 }
 
-.prev {
-    float: left;
+.bx-wrapper .bx-controls-direction a {
+    height: 70px;
 }
 
-.next {
-    float: right;
+.bx-wrapper .bx-prev {
+    background: lightcoral;
+}
+
+.bx-wrapper .bx-next {
+    background: lightblue;
 }
